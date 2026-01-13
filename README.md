@@ -17,4 +17,5 @@ A beautiful, responsive task management application with daily, weekly, and mont
 - Local Storage for data persistence
 - Mobile-first responsive design
 ---
-Built with ❤️ for productivity enthusiasts - RYDER37 ;)
+Built with ❤️ for productivity enthusiasts
+
